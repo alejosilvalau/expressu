@@ -1,6 +1,8 @@
 # ExpressU
 
-![ExpressU](React-Blog-App.gif)
+![ExpressU](register.gif)
+![ExpressU](write.gif)
+![ExpressU](log_out.gif)
 
 ## Summary
 
