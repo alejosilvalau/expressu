@@ -1,8 +1,16 @@
 # ExpressU
 
 ![ExpressU](register.gif)
+
+---
+
 ![ExpressU](write.gif)
+
+---
+
 ![ExpressU](log_out.gif)
+
+---
 
 ## Summary
 
