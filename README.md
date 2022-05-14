@@ -11,7 +11,7 @@ This is a blog app that let you post daily updates of your life, your stories, o
 - A cooking recipe
   And more...
 
-The back end is deployed on Heroku, and the front end is on Netlify.
+The back end is deployed on Heroku, and the front end is on Netlify, and uses the PERN stack.
 
 - [ExpressU](#ExpressU)
   - [Summary](#summary)
